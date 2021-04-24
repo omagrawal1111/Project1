@@ -1,2 +1,5 @@
 # Project1
-Open Source
+Open Source Project
+
+Anyone can contribute and give their views.
+
